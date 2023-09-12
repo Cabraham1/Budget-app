@@ -1,7 +1,7 @@
 class MainController < ApplicationController
   skip_before_action :authenticate_user!, only: [:index]
   def index
-    unless user_signed_in?
-    end
+    return unless user_signed_in?
+    # redirect_to groups_path
   end
 end
