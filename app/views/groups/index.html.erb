@@ -1,5 +1,6 @@
 <div class="main-container">
     <div class="groups-container">
+<<<<<<< HEAD
         <%= render 'shared/header', name: 'Categories' %>
         <% @groups.each do |group| %>
             <ul class="group">
@@ -13,6 +14,17 @@
             </ul>
         <% end %>
         <button class="new category"> <%= link_to 'New Category', new_group_path %> </button>
+=======
+        <h1 class="page-title">Categories</h1>
+        <% @groups.each do |group| %>
+            <div class="group">
+                <div class="group-image">
+                    <%# <%= image_tag group.image_url(:thumb) %> %>
+                    <h1> <%= group.name %> </h1>
+                </div>
+            </div>
+        <% end %>
+>>>>>>> Dev
         
     </div>
 </div>
