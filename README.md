@@ -1,4 +1,4 @@
-![https://github.com/cabraham1]
+
 <a name="readme-top"></a>
 
 <div align="center">
