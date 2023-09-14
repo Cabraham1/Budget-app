@@ -1,12 +1,13 @@
 databases:
-  - name: budgetApp
-    databaseName: budgetapp_b6vh
-    user: budgetapp_b6vh_user
+  - name: budgetapp_b6vh
+    databaseName: BudgetApp_production
+    user: BudgetAp
+    password:
+      fromSecret: RECIPEAPP_DATABASE_PASSWORD
 
 services:
   - type: web
     name: budgetApp
-    runtime: ruby
     buildCommand: "./bin/render-build.sh"
     startCommand: "bundle exec puma -C config/puma.rb"
     envVars:
