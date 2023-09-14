@@ -1,5 +1,3 @@
-![https://github.com/sanieni6](https://img.shields.io/badge/sanieni6-blue)
-<a name="readme-top"></a>
 
 <div align="center">
  <a href="https://imgbox.com/ftUpMLFI" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_original_wordmark_logo_icon_146364.png" alt="personal logo"/ width="220"  height="auto"></a>
@@ -79,10 +77,10 @@ This is a mobile web application where you can manage your budget: you have a li
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 ### Live Demo Link <a name="live-demo-link"></a>
-[Render Link](https://budgetapp-iykk.onrender.com/)
+[Render Link](https://budgetapp-xbto.onrender.com/)
 
 ### Video Demo Link <a name="live-demo-link"></a>
-[Video Demo Link](https://www.loom.com/share/c845dcdc547a434cba389d742520625a?sid=739afb51-1f3a-44dc-8696-18090e29ecb3)
+[Video Demo Link](https://www.loom.com/share/9ac3b0d634d64057801097f2e28220bb?sid=02e36839-9f78-45be-80f3-2d6faea7d262)
 
 <!-- GETTING STARTED -->
 
@@ -99,7 +97,7 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:sanieni6/Budget-app.git
+  git clone git@github.com:cabraham1/Budget-app.git
   cd Budget-app
 ```
 
@@ -133,11 +131,11 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Luis Sanchez**
+👤 **Abraham Christopher**
 
-- Github: [GitHub](https://github.com/sanieni6/)
-- Twitter: [Twitter](https://twitter.com/its_luis_sz23)
-- Linkedin:  [LinkedIn](https://www.linkedin.com/in/luissanchezz3/)
+- Github: [GitHub](https://github.com/cabraham1/)
+- Twitter: [Twitter](https://twitter.com/_cabraham1)
+- Linkedin:  [LinkedIn](https://www.linkedin.com/in/abrahamchristopher/)
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
