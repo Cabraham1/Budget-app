@@ -130,11 +130,11 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Luis Sanchez**
+👤 **Christopher abraham**
 
-- Github: [GitHub](https://github.com/sanieni6/)
-- Twitter: [Twitter](https://twitter.com/its_luis_sz23)
-- Linkedin:  [LinkedIn](https://www.linkedin.com/in/luissanchezz3/)
+- Github: [GitHub](https://github.com/cabraham1/)
+- Twitter: [Twitter](https://twitter.com/_cabraham)
+- Linkedin:  [LinkedIn](https://www.linkedin.com/in/abrahamchristopher/)
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
