@@ -1,0 +1,10 @@
+<%= form_for(resource, as: resource_name, url: session_path(resource_name), class:"w-full") do |f| %>
+<%= render 'shared/header', name: 'LOGIN', action:f %>
+    <%= f.email_field :email, autofocus: true, autocomplete: "email", placeholder:"Email", required: true, class:"w-full border-0 placeholder-text-m mt-5" %>
+    <hr class="w-full bg-text">
+    <%= f.password_field :password, autocomplete: "current-password", placeholder:"Password", required: true, class:"w-full border-0 placeholder-text-m" %>
+
+
+<% end %>
+
+<%= render "devise/shared/links" %>

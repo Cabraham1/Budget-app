@@ -1,0 +1,13 @@
+<%= form_with model: form_object, url: form_url, class:"w-full" do |form| %>
+    <%= render 'shared/header', name: type, action: form %>
+    <%= form.text_field :name, required: true, placeholder:"Name", class:"w-full border-0 placeholder-text-m mt-5" %>
+  <%if type == "New Category"%>
+    <hr class="w-full bg-text">
+        <%= form.text_field :icon, required: true, placeholder:"Icon(url)", class:"w-full border-0 placeholder-text-m" %>
+    <% else %>
+        <hr class="w-full bg-text">
+        <%= form.number_field :amount, required: true, step: '0.01', placeholder:"Amount", class:"w-full border-0 placeholder-text-m" %>
+        <hr class="w-full bg-text">
+        <%= form.collection_select :group_id, current_user.groups, :id, :name, {prompt: "Select a category"}, class:"w-full border-0 placeholder-text-m text-text-m", required: true %>
+    <% end %>
+<% end %>
