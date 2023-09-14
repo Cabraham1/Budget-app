@@ -1,4 +1,3 @@
-![https://github.com/sanieni6](https://img.shields.io/badge/sanieni6-blue)
 <a name="readme-top"></a>
 
 <div align="center">
