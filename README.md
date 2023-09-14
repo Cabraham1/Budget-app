@@ -96,7 +96,7 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:cabraham1/Budget-app.git
+  git clone git@github.com:sanieni6/Budget-app.git
   cd Budget-app
 ```
 
